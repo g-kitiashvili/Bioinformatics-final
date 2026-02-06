@@ -116,10 +116,6 @@ The novel finding that the classifier detects tissue type rather than cancer typ
 lung_cancer_project/
 ├── README.md
 ├── requirements.txt
-├── docs/
-│   ├── BEGINNERS_GUIDE.md
-│   ├── QA_PREPARATION.md
-│   └── OUTLIER_DETECTION_JOURNEY.md
 ├── data/
 │   └── tcga_lung_expression.csv
 ├── src/

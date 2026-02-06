@@ -1,0 +1,4 @@
+Sample_Type,Tissue_Context,Total,Accepted,Rejected,Rate,Mean_Confidence,Interpretation
+Lung Cancer (Target),Target class,204,159,45,0.7794117647058824,0.962878605230174,Correctly classified as LUAD or LUSC
+Breast Cancer,Different organ,50,1,49,0.98,0.7676427723530582,"Rejected because different tissue type, NOT because different cancer"
+Normal Lung,"Same organ, non-cancer",50,49,1,0.02,0.93757594069193,Accepted because same tissue type - classifier cannot detect non-cancer

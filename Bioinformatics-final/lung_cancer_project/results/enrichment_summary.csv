@@ -1,0 +1,6 @@
+Database,Term,P-value,Genes
+GO,epidermis development (GO:0008544),1.968104006761536e-12,21/83
+GO,skin development (GO:0043588),1.2739534548060445e-07,16/80
+GO,keratinocyte differentiation (GO:0030216),2.566059462541999e-06,11/41
+GO,epidermal cell differentiation (GO:0009913),3.5412252146318784e-05,11/53
+GO,peptide cross-linking (GO:0018149),0.0460403351900319,6/31
